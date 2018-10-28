@@ -7613,10 +7613,10 @@ tile.stone_full_hard5.november.name=
 tile.stone_full_hard5.oscar.name=
 tile.stone_full_hard5.papa.name=
 
-tile.wood_chair_1.alpha.name=Spruce Chair
-tile.wood_chair_1.bravo.name=Fancy Chair
-tile.wood_chair_1.charlie.name=Small Bench
-tile.wood_chair_1.delta.name=Small Bench Half
+tile.wood_chair_1.alpha.name=Еловый Стул
+tile.wood_chair_1.bravo.name=Красивый Стул
+tile.wood_chair_1.charlie.name=Маленькая Скамья
+tile.wood_chair_1.delta.name=Половина маленькой Скамьи
 
 tile.wooden_pole.name=Деревянный столб
 tile.empty_small_rack.name=Пустая Маленькая Стойка
